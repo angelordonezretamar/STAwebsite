@@ -226,7 +226,7 @@ button {
     width: 102%;
     float: inline-start;
     background-position: center;
-    background-image: url(../images/Foto\ Santo\ Tommaso\ Chiesa/Estrellas.jpg);
+    background: #800000;
     height: 100%;
     background-size: 102%;
     
@@ -308,6 +308,15 @@ button {
     text-align: center;
     text-transform: uppercase;
 }
+.furniture_text1{
+    font: ACasIonPro;
+    width: 100%;
+    float: left;
+    font-size: 100px;
+    color: #000000;
+    text-align: center;
+    text-transform: uppercase;
+}
 
 .box1 {
     width: 3000px;
@@ -345,6 +354,13 @@ button {
     color: #000000;
     text-align: center;
 }
+.there_text2 {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 26px;
+    color: #000000;
+    text-align: center;
+}
 .contact_bt_main{
     width: 17%;
     margin: 0 auto;
@@ -360,7 +376,7 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #ff0905;
+    background-color: #800000;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -401,7 +417,7 @@ button {
     border-radius: 100px;
 }
 #costum_slider .carousel-control-prev:hover, #costum_slider .carousel-control-next:hover, #costum_slider .carousel-control-prev:focus, #costum_slider .carousel-control-next:focus {
-    background: #ff0905;
+    background: #800000;
     color: #fff;
 }
 
@@ -465,7 +481,7 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #ff0905;
+    background-color: #800000;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -478,7 +494,7 @@ button {
 .about_section{
     width: 100%;
     float: left;
-    background-color: #ff0905;
+    background-color: #800000;
     height: auto;
     padding-bottom: 90px;
 }
@@ -588,7 +604,7 @@ button {
     width: 200%;
     float: left;
     font-size: 20px;
-    color: #ffffff;
+    color: #000000;
     text-align: left;
     margin-left: 0px;
     margin-top: 0px;
@@ -647,7 +663,7 @@ a:hover {
     width: 15%;
     opacity: 0;
     transition: .3s ease;
-    background-color: #ff0905;
+    background-color: #800000;
     margin: 0 auto;
     border-radius: 100px;
     top: 130px;
@@ -675,7 +691,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #ff0905;
+    color: #800000;
     text-transform: uppercase;
     font-weight: bold;
     padding-top: 35px;
@@ -938,7 +954,7 @@ a:hover {
 .contact_section {
     width: 100%;
     float: left;
-    background: #fbb716;
+    background: #ffffff;
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -952,7 +968,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 36px;
-    color: #ffffff;
+    color: #000000;
 
 }
 .email-bt {
@@ -1123,10 +1139,4 @@ iframe {
 .copyright_text a:hover{
     color: #ff0905;
 }
-
-
-
-
-
-
 
