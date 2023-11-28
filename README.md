@@ -1,2 +1,3 @@
 # STAwebsite
-Website I built for Saint Thomas Aquinas in Jamaica Plain, MA. This was the parish I stayed at as a missionary from May 2023 to June 2024.
+The template used to start with was https://themewagon.com/themes/vintagefur/
+Source files are included in the src folder
