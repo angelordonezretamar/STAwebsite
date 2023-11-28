@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------------- File Name: style.css ---------------------------------------------------------------------*/
 
 /*--------------------------------------------------------------------- import Fonts ---------------------------------------------------------------------*/
-
+@import url('https://fonts.cdnfonts.com/css/euphorigenic');
 @import url('https://fonts.googleapis.com/css?family=Rajdhani:300,400,500,600,700');
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
 @font-face {
@@ -309,10 +309,10 @@ button {
     text-transform: uppercase;
 }
 .furniture_text1{
-    font: ACasIonPro;
+    font-family: 'Euphorigenic', sans-serif;
     width: 100%;
     float: left;
-    font-size: 100px;
+    font-size: 123px;
     color: #000000;
     text-align: center;
     text-transform: uppercase;
@@ -325,7 +325,7 @@ button {
     border: 1px solid rgba(0, 0, 0, .2);
     background: #fbb716;
     position: absolute;
-    top: 650px;
+    top: 595px;
     left: 0px;
 }
 .box2 {
@@ -335,7 +335,7 @@ button {
     border: 1px solid rgba(0, 0, 0, .2);
     background: #800000;
     position: absolute;
-    top: 800px;
+    top: 742px;
     left: 0px;
 }
 .there_text {
@@ -355,11 +355,13 @@ button {
     text-align: center;
 }
 .there_text2 {
+    font-family: 'Euphorigenic', sans-serif;
     width: 50%;
     margin: 0 auto;
     font-size: 26px;
     color: #000000;
     text-align: center;
+    margin-top: 10px;
 }
 .contact_bt_main{
     width: 17%;
@@ -1139,4 +1141,3 @@ iframe {
 .copyright_text a:hover{
     color: #ff0905;
 }
-
