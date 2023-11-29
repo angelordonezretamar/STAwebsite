@@ -226,7 +226,7 @@ button {
     width: 102%;
     float: inline-start;
     background-position: center;
-    background: #800000;
+    background: #912525;
     height: 100%;
     background-size: 102%;
     
@@ -316,8 +316,8 @@ button {
     font-family: 'Euphorigenic', sans-serif;
     width: 100%;
     float: left;
-    font-size: 68px;
-    color: #000000;
+    font-size: 55px;
+    color: #ffffff;
     text-align: center;
     text-transform: uppercase;
 }
@@ -328,7 +328,7 @@ button {
     height: 150px;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, .2);
-    background: #fbb716;
+    background: #0e0e0e;
     top: 513px;
     left: 0px;
 }
@@ -338,10 +338,20 @@ button {
     height: 90px;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, .2);
-    background: #800000;
+    background: #912525;
     top: 600px;
     left: 0px;
 }
+.box3 {
+    margin: auto;
+    position: sticky;
+    width: 800px;
+    height: 10px;
+    border: 1px solid rgba(0, 0, 0, .2);
+    background: #fbb716;
+    top: 760px;
+}
+
 .there_text {
     width: 50%;
     margin: 0 auto;
