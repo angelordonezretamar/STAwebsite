@@ -70,10 +70,10 @@ $(function () {
 	  owl.owlCarousel({
 		items: 1,
 		loop: true,
+		nav: true,
 		margin: 10,
 		autoplay: true,
 		autoplayTimeout: 3000,
-		autoplayHoverPause: true
 	  });	  
 	});
 	
@@ -91,7 +91,6 @@ $(function () {
 		navText : ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
 		autoplay: true,
 		autoplayTimeout: 3000,
-		autoplayHoverPause: true
 	  });	  
 	});
 	
@@ -104,6 +103,8 @@ $(function () {
 		loop: true,
 		nav: true,
 		margin: 10,
+		autoplay: true,
+		autoplayTimeout: 3000,
 		navText : ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
 		responsive: {
 		  0: {
@@ -208,7 +209,7 @@ $(function () {
 		paginationClickable: true,
 		loop: true,
 		autoplay: {
-			delay: 2500,
+			delay: 0,
 			disableOnInteraction: false,
 		},
 		pagination: {
