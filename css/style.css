@@ -369,8 +369,8 @@ button {
     text-align: center;
 }
 .there_text2 {
-    font-family: 'Euphorigenic', sans-serif;
-    width: 50%;
+    font-family:"minion-pro",times,serif;    
+    width: 80%;
     margin: 0 auto;
     font-size: 34px;
     color: #ffffff;
@@ -378,10 +378,10 @@ button {
     margin-top: 10px;
 }
 .there_text3 {
-    font-family: 'Euphorigenic', sans-serif;
+    font-family:"minion-pro",times,serif;
     width: 50%;
     margin: 0 auto;
-    font-size: 34px;
+    font-size: 30px;
     color: #000000;
     text-align: center;
     margin-top: 10px;
@@ -401,7 +401,7 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #800000;
+    background-color: #912525;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -444,7 +444,7 @@ button {
 }
 #costum_slider .carousel-control-prev:hover, #costum_slider .carousel-control-next:hover, #costum_slider .carousel-control-prev:focus, #costum_slider .carousel-control-next:focus {
     z-index: 0;
-    background: #800000;
+    background: #912525;
     color: #fff;
 }
 
@@ -508,7 +508,7 @@ button {
     float: left;
     font-size: 18px;
     color: #ffffff;
-    background-color: #800000;
+    background-color: #912525;
     text-align: center;
     padding: 10px 0px;
     border-radius: 5px;
@@ -521,7 +521,7 @@ button {
 .about_section{
     width: 100%;
     float: left;
-    background-color: #800000;
+    background-color: #912525;
     height: auto;
     padding-bottom: 90px;
 }
@@ -690,7 +690,7 @@ a:hover {
     width: 15%;
     opacity: 0;
     transition: .3s ease;
-    background-color: #800000;
+    background-color: #912525;
     margin: 0 auto;
     border-radius: 100px;
     top: 130px;
@@ -718,7 +718,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #800000;
+    color: #912525;
     text-transform: uppercase;
     font-weight: bold;
     padding-top: 35px;
@@ -1163,7 +1163,7 @@ iframe {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #000000;
+    background-color: #0e0e0e;
     height: auto;
 }
 
