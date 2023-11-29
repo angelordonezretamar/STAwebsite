@@ -1,7 +1,6 @@
 /*---------------------------------------------------------------------
     File Name: custom.js
 ---------------------------------------------------------------------*/
-
 $(function () {
 	
 	"use strict";
@@ -73,7 +72,7 @@ $(function () {
 		nav: true,
 		margin: 10,
 		autoplay: true,
-		autoplayTimeout: 3000,
+		autoplayTimeout: 1000,
 	  });	  
 	});
 	
@@ -90,7 +89,7 @@ $(function () {
 		dots: false,
 		navText : ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
 		autoplay: true,
-		autoplayTimeout: 3000,
+		autoplayTimeout: 1000,
 	  });	  
 	});
 	
@@ -104,7 +103,7 @@ $(function () {
 		nav: true,
 		margin: 10,
 		autoplay: true,
-		autoplayTimeout: 3000,
+		autoplayTimeout: 1000,
 		navText : ["<i class='fa fa-angle-left'></i>","<i class='fa fa-angle-right'></i>"],
 		responsive: {
 		  0: {
