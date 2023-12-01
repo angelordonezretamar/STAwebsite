@@ -323,7 +323,7 @@ button {
 }
 
 .box1 {
-    position: sticky;
+    position: relative;
     width: 3000px;
     height: 150px;
     text-align: center;
@@ -333,23 +333,23 @@ button {
     left: 0px;
 }
 .box2 {
-    position: sticky;
+    position: relative;
     width: 3000px;
     height: 90px;
     text-align: center;
     border: 1px solid rgba(0, 0, 0, .2);
     background: #912525;
-    top: 600px;
+    top: 450px;
     left: 0px;
 }
 .box3 {
     margin: auto;
-    position: sticky;
+    position: relative;
     width: 800px;
     height: 10px;
     border: 1px solid rgba(0, 0, 0, .2);
     background: #fbb716;
-    top: 760px;
+    top: 517px;
 }
 
 .there_text {
@@ -637,7 +637,16 @@ button {
     margin-top: 0px;
     margin-bottom: 0px;
 }
-
+.ipsum_text3{
+    width: 200%;
+    float: left;
+    font-size: 16px;
+    color: #090808;
+    text-align: left;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 .formationtext{
     width: 100%;
     float: left;
@@ -761,6 +770,22 @@ a:hover {
     float: left;
     font-size: 16px;
     color: #ffffff;
+    text-align: center;
+    margin-left: 0px;
+}
+.lorem_ipsum_text a{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #ffffff;
+    text-align: center;
+    margin-left: 0px;
+}
+.lorem_ipsum_text a:hover{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #000000;
     text-align: center;
     margin-left: 0px;
 }
